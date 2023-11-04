@@ -17,3 +17,4 @@ A main ();
 opaaaa
 essa mudança foi feita em feature1
 isso causará um conflito
+ISSO CAUSARÁ UM CONFLITO
