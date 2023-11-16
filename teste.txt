@@ -1,8 +1,8 @@
-COOOOdigo nosso que está em C
+gitCOOOOdigo nosso que está em C
 Santificado seja vós, console
 VENHA NOS o vosso array[10]
 E seja feita, sim, {vossa chave}
-Assim no if{
+ASSIM no if{
 } Como no Else{
 } 
 O for(nosso;de cada dia;nos daí hoje++)
@@ -18,3 +18,7 @@ opaaaa
 essa mudança foi feita em feature1
 isso causará um conflito
 ISSO CAUSARÁ UM CONFLITO
+adição bla bla bla
+teste
+
+
